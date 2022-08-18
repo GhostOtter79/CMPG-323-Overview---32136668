@@ -18,3 +18,10 @@ I will be using the following branches:
 - Developer branch(for writning the project)
 - Testing branch(for testing the project before moving it to the Main Branch)
 
+## GitIgnore
+
+GetIgnore will be used in the case that I create a file that I dont want to run at the end. One place I will be using the GitIgnore file is for my file that contains my Credentials and Sensitive Information.
+
+## Credentials and Sensitive Information
+
+As stated in the previous section Iwill be making use of a GitIgnore file to keep my information safe.
